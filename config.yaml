@@ -1,0 +1,4 @@
+llm_model_path: "models/Llama-3.2-3B-Instruct-Q4_0.gguf"
+default_tone: "professional"
+keyword_match_threshold: 0.75
+output_resume_name: "optimized_resume.docx"

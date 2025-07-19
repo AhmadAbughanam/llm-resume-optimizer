@@ -1,0 +1,8 @@
+llama-cpp-python
+pdfminer.six
+python-docx
+spacy
+fuzzywuzzy
+python-Levenshtein
+PyYAML
+tk  
