@@ -78,10 +78,6 @@ This app uses a local LLM: `Llama-3.2-3B-Instruct-Q4_0.gguf`.
 
 Due to GitHub's 100MB file limit, you need to manually download the model:
 
-👉 [Insert your Hugging Face / Google Drive / Dropbox link]
-
-After downloading, place the model here:
-
 ## 🔒 Privacy Focused
 
 This project is 100% local:
